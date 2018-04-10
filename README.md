@@ -1,11 +1,6 @@
 # Flask Powered
 List of companies using Flask framework - who is using Flask?
 
-
-# Other Resources
-
-For a curated list of awesome Flask resources and plugins https://github.com/humiaozuzu/awesome-flask
-
 # Companies using Flask
 
 ## Worldwide
@@ -66,3 +61,7 @@ For a curated list of awesome Flask resources and plugins https://github.com/hum
 
 Some from https://stackshare.io/flask and some sent as PRs or suggested on [twitter](https://twitter.com/rochacbruno/status/983354844105887745) by people working on that companies.
 if you want to add or remove some company from the list please send a PR.
+
+# Other Resources
+
+For a curated list of awesome Flask resources and plugins https://github.com/humiaozuzu/awesome-flask
