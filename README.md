@@ -43,6 +43,7 @@ For a curated list of awesome Flask resources and plugins https://github.com/hum
 - [fortbrasil](https://www.fortbrasil.com.br/)
 - [geru](https://www.geru.com.br)
 - [Globo.com](http://globo.com)
+- [Instituto da Lingua Inglesa](https://www.ili.com.br/)
 - [JusBrasil](https://www.jusbrasil.com.br/)
 - kacttus **NEEDINFO**
 - [Lendico - SP](https://www.lendico.com.br/)
