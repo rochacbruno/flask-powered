@@ -22,6 +22,7 @@ For a curated list of awesome Flask resources and plugins https://github.com/hum
 - [Mailgun](https://stackshare.io/mailgun/mailgun)
 - [MIT](https://stackshare.io/mit/mit)
 - [Hotjar](https://stackshare.io/hotjar/hotjar)
+- [Patreon](https://stackshare.io/patreon/patreon)
 - [Teradata](https://stackshare.io/teradata/teradata)
 - [Uber](https://stackshare.io/uber/partners-uber-com)
 - [Samsung](https://stackshare.io/engel80/apkg)
