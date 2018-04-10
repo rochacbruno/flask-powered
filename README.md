@@ -24,6 +24,8 @@ For a curated list of awesome Flask resources and plugins https://github.com/hum
 - [Hotjar](https://stackshare.io/hotjar/hotjar)
 - [Teradata](https://stackshare.io/teradata/teradata)
 - [Uber](https://stackshare.io/uber/partners-uber-com)
+- [Samsung](https://stackshare.io/engel80/apkg)
+- [Nginx](https://stackshare.io/nginx-inc/nginx-amplify)
 - 1.5k more companies in [https://stackshare.io/flask/](https://stackshare.io/flask/)
 
 ## Brazil
