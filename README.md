@@ -34,7 +34,7 @@ List of companies using Flask framework - who is using Flask?
 - [Catho/Seek](https://github.com/seek-ai)
 - [Diebold Nixdorf](http://www.dieboldnixdorf.com.br/)
 - [e-xyon](http://e-xyon.com.br)
-- [ESSS São Paulo](https://twitter.com/ESSSbr)
+- [ESSS - Florianópolis SC](https://www.esss.co)
 - [Fiocruz RJ](https://portal.fiocruz.br/)
 - [fortbrasil](https://www.fortbrasil.com.br/)
 - [geru](https://www.geru.com.br)
