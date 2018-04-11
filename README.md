@@ -57,6 +57,10 @@ List of companies using Flask framework - who is using Flask?
 - [Ypy Tecnologia de Uberlândia](http://www.ypytecnologia.com.br/)
 - [ZAP Imóveis](https://www.zapimoveis.com.br/)
 
+## Ukraine
+
+- [EVO.company] (https://evo.company)
+
 # Sources
 
 Some from https://stackshare.io/flask and some sent as PRs or suggested on [twitter](https://twitter.com/rochacbruno/status/983354844105887745) by people working on that companies.
