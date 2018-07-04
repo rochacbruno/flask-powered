@@ -17,7 +17,7 @@ List of companies using Flask framework - who is using Flask?
 - [Mailgun](https://stackshare.io/mailgun/mailgun)
 - [MIT](https://stackshare.io/mit/mit)
 - [Mozilla](https://www.mozilla.org)
-    - Balrog (Application Update Service), Release Engineering Services and others tools and APIs
+    - [Balrog (Application Update Service)](https://github.com/mozilla/balrog), [Release Engineering Services](https://github.com/mozilla-releng/services) and others tools and APIs
 - [Hotjar](https://stackshare.io/hotjar/hotjar)
 - [Patreon](https://stackshare.io/patreon/patreon)
 - [Teradata](https://stackshare.io/teradata/teradata)
