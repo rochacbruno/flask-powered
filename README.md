@@ -61,7 +61,7 @@ List of companies using Flask framework - who is using Flask?
 
 ## Ukraine
 
-- [EVO.company] (https://evo.company)
+- [EVO.company](https://evo.company)
 
 # Sources
 
